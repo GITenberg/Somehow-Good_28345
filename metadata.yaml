@@ -1,0 +1,37 @@
+_repo: Somehow-Good_28345
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 28345-h/images/demorgan_cover.jpg
+creator:
+  author:
+    agent_name: De Morgan, William
+    aliases:
+    - Morgan, William Frend De
+    - Morgan, William De
+    birthdate: 1839
+    deathdate: 1917
+    gutenberg_agent_id: '33283'
+    url: http://www.gutenberg.org/2009/agents/33283
+    wikipedia: http://en.wikipedia.org/wiki/William_De_Morgan
+description: In a remarkable series of events, a nameless man strikes up a friendship
+  with a young woman and while with her loses his memory from an electric shock. She
+  takes him to her mother's house where her mother realizes the man is the husband
+  who left her twenty years earlier. As the title implies, there is a happy ending
+  to this charming story.
+gutenberg_issued: '2009-03-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28345'
+  lccn: 08004365
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Mothers and daughters -- Fiction'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Amnesiacs -- Fiction'
+title: Somehow Good
+url: http://www.gutenberg.org/ebooks/28345
